@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omarchy
 - 👀 I’m interested in Data Science and Data Analysis.
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning R and SQL
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me ...
 
